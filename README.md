@@ -2,18 +2,15 @@
 
 ###
 
-<h2>📛 Full name: Gabriel Amara <br><br> 🧙‍♂️ Age: 26 years old <br><br> 🗺️ Location: São Paulo - Brazil <br><br> 👅 Languages: Portuguese, English and Italian<br><br> 💼 Working: Flixbus - Support Engineer </h2>
-<br>
+<h3>📛 Full name: Gabriel Amara <br><br> 🧙‍♂️ Age: 26 years old <br><br> 🗺️ Location: São Paulo - Brazil <br><br> 👅 Languages: Portuguese, English and Italian<br><br> 💼 Working: Flixbus - Support Engineer </h3>
 
-<h1>Diplomas:</h1>
+<h2>Diplomas:</h2>
 <p><b>2021 - 2023</b> -> <i>Análise e Desenvolvimento de Sistemas at FIAP</i></p>
 <p><b>2025 - Current</b> -> <i>Software Engineer at FIAP</i></p>
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
+<h2 align="left">About me:</h2>
 
 <p align="left">✈️ <b>Japan is my favorite place to visit</b> <br><br> 👨‍🍳 <b>I worked in the kitchen for 6 months</b><br><br> 🎮 <b>I am a fan of the Gaming Industry</b>  </p>
 
